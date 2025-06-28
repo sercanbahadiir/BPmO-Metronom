@@ -131,3 +131,6 @@ Python standart GUI kütüphanesi. Çoğu Python sürümünde varsayılan olarak
 - Daha gelişmiş grafik arayüzleri
 - Çoklu ritim ve vuruş seçenekleri
 
+Temsii Simülasyon ve Kod Bağlantıları Tinkercad Simülasyon Linki: https://www.tinkercad.com/things/2osEWT5IlJL/editel?returnTo=%2Fdashboard&sharecode=xEbV19hBHN6R44XF8R7WgX9tQ6NPc8N3ULkS6ubnIzE
+
+Proje Videosu Projenin çalışır halde videosunu aşağıdaki bağlantıdan izleyebilirsiniz:
